@@ -12,7 +12,7 @@
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.2.0",
     "eslint-plugin-standard": "^4.0.1",
-    "exact": "^0.8.0",
+    "exact": "^1.0.1",
     "prettier-standard": "^15.0.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
